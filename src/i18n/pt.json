@@ -1,0 +1,147 @@
+{
+    "user": {
+        "title":"Cadastre sua conta"  ,
+        "label":"Vamos comçar pela conta de usuario" ,
+        "description":"Preencha seu email que ultiliza profissionalment, " ,
+        "subDescription":"name completo de pessoa física e seu número do celular.",
+        "email":"Email",
+        "fullName":"Nome Completo",
+        "mobile":"Celular",
+        "register": "Cadastrar",
+        "aceite": "Aceite",
+        "accpetContrate":"Eu li e concordo com o",
+        "contrate":"Contrato de uso",
+        "contrateName":"Contrato",
+        "contrateDesc":"Fake",
+        "textContrate":"Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+    },
+    "header": {
+        "useCase": "Casos de Uso",
+        "faq": "FAQ",
+        "api": "Forneça sua API",
+        "enter": "Entre",
+        "register": "Cadastre-se"
+    },
+    "error": {
+        "1000": {
+            "generic": "Erro interno. favor entrar em contato com o administrador do sistema."
+        },
+        "1001": {
+            "generic": "Ops! não foi possível criar a api. verifique se todos os campos estão preenchidos e tente novamente."
+        },
+        "1002": {
+            "generic": "Ops! não foi possível atualizar o campo {{field}}."
+        },
+        "1003": {
+            "generic": "Erro interno. favor entrar em contato com o administrador do sistema."
+        },
+        "1004": {
+            "generic": "Ops! {{field}} não encontrado."
+        },
+        "1005": {
+            "generic": "Ops! campo {{field}} não pode ser deletado."
+        },
+        "1006": {
+            "generic": "Ops! não foi possível criar o campo {{field}}."
+        },
+        "1007": {
+            "generic": "Não há casos de uso com APIs disponíveis"
+        },
+        "1008": {
+            "generic": "Ops! erro interno,  favor tentar novamente em instantes."
+        },
+        "1015": {
+            "generic": "Ops! erro de validação. verifique se todos os campos estão preenchidos corretamente e tente novamente."
+        },
+        "1016": {
+            "generic": "Ops! {{field}} já cadastrado."
+        },
+        "1017": {
+            "generic": "{{field}} deve ser vazio para exclusão."
+        },
+        "1032": {
+            "generic": "Não foi possível realizar esta operação, caso de uso vinculado à página inicial."
+        },
+        "1033": {
+            "generic": "Imagem acima do tamanho permitido ({{limitSize}} KB)"
+        },
+        "1034": {
+            "generic": "Usuário já {{type}} para api {{apiId}}"
+        },
+        "1035": {
+            "generic": "Ops! erro de autenticação."
+        },
+        "1036": {
+            "generic": "Ops! erro ao enviar email,  favor tentar novamente em instantes."
+        },
+        "1037": {
+            "generic": "Ops! operação não permitida"
+        },
+        "1038": {
+            "generic": "Ops! {{operation}} não permitida"
+        },
+        "2000": {
+            "generic": "Erro interno. favor entrar em contato com o administrador do sistema."
+        },
+        "2001": {
+            "generic": "Senha deve conter no mínimo: oito caracteres, uma letra maiúscula, uma letra minúscula, um número e um caractere especial"
+        },
+        "2002": {
+            "generic": "Usuário já cadastrado."
+        },
+        "2003": {
+            "generic": "Senha incorreta. tente novamente."
+        },
+        "2004": {
+            "generic": "Usuário não encontrado."
+        },
+        "2005": {
+            "generic": "Usuário ou senha incorreta."
+        },
+        "2006": {
+            "generic": "Ops! erro ao enviar email,  favor tentar novamente em instantes."
+        },
+        "2007": {
+            "generic": "O campo {{field}} é obrigatório. necessário o preenchimento para prosseguir"
+        },
+        "2008": {
+            "generic": "Ops! erro na troca de senha. favor tentar novamente em instantes."
+        },
+        "2009": {
+            "generic": "Ops! erro na confirmação do email. favor tentar novamente em instantes."
+        },
+        "2010": {
+            "generic": "Necessário correção do campo {{field}} para continuar."
+        },
+        "2015": {
+            "generic": "Ops! erro de validação. verifique se todos os campos estão preenchidos corretamente e tente novamente.",
+            "/user": "A SENHA DEVE TER PELO MENOS OITO CARACTERES INCLUÍNDO:\n\nUMA LETRA MAIÚSCULA\nUMA LETRA MINÚSCULA\nUM NÚMERO\nUM CARACTERE ESPECIAL ( ! ? @ : ; - , . % & # $ )"
+        },
+        "2030": {
+            "generic": "Acesso não permitido para o usuário."
+        },
+        "fields": {
+            "subscriptionstatus": "Status da Subscrição da API",
+            "subscription": "Subscrição da API",
+            "code": "Código",
+            "aceite": "Aceite",
+            "policy": "Política",
+            "userid": "Id do Usuário",
+            "acceptedat": "Aceito em",
+            "user": "Usuário",
+            "cnpj": "CNPJ",
+            "razaosocial": "Razão Social",
+            "telefone": "Telefone",
+            "cep": "CEP",
+            "nome_rua": "Nome da Rua",
+            "numero": "Numero",
+            "complemento": "Complemento",
+            "bairro": "Bairro",
+            "cidade": "Cidade",
+            "uf": "UF",
+            "tipo": "Tipo"
+           
+            
+        }
+    }
+}
