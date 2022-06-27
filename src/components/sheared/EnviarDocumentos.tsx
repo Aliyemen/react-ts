@@ -46,8 +46,7 @@ const LabelP = styled('p', {
 const IconEnviado = styled(FaCheckCircle, {
   color: '#8cc9a5',
   fontWeight:'bold',
-  paddingRight: 15,
-  paddingTop :15,
+  marginRight:5
 });
 
 const FlexColumn = styled('div', { 
