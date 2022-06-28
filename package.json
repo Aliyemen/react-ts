@@ -21,6 +21,7 @@
     "@reduxjs/toolkit": "^1.8.2",
     "@stitches/react": "^1.2.8",
     "@types/node": "^18.0.0",
+    "@types/react-input-mask": "^3.0.1",
     "antd": "^4.21.4",
     "axios": "^0.27.2",
     "bootstrap": "^5.1.3",
