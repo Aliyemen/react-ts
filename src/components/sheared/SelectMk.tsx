@@ -15,7 +15,6 @@ const StyledTrigger = styled(SelectPrimitive.SelectTrigger, {
   fontSize: 15,
   lineHeight: 1,
   height: 35,
-  width:'420px',
   gap: 5,
   width:540,
   marginBottom:20,
