@@ -34,8 +34,8 @@ const Contente = styled('div', {
 function Register() {
     const [forms, setForms] = useState<formProp[]>([
         {label: i18n.t(`resource.user.email`), model: 'email', width:383 , widthColum: 550},
-        {label: i18n.t(`resource.user.fullName`), model: 'fullName', width:271, widthColum: 300},
-        {label: i18n.t(`resource.user.mobile`), model: 'mobile', width:175, widthColum: 150},
+        {label: i18n.t(`resource.user.fullName`), model: 'fullName', width:271, widthColum: 330},
+        {label: i18n.t(`resource.user.mobile`), model: 'mobile', width:175, widthColum: 200},
     ])
 
     return (

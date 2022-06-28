@@ -33,13 +33,13 @@ const Contente = styled('div', {
 function Company() {
     const [forms, setForms] = useState<formProp[]>([
         {label: 'CNPJ', model: 'cnpj', width:246, widthColum:550},
-        {label: 'Razão social', model: 'company', width:319, widthColum:350},
-        {label: 'Telefone', model: 'phone', width:207, widthColum:120},
+        {label: 'Razão social', model: 'company', width:319, widthColum:360},
+        {label: 'Telefone', model: 'phone', width:207, widthColum:180},
         {label: 'CEP', model: 'cep', width:143, widthColum:550},
         {label: 'Endereço', model: 'address', width:549, widthColum:550},
         {label: 'Número', model: 'number', width:100, widthColum:140},
         {label: 'Complemento', model: 'complment', width:150 , widthColum:190},
-        {label: 'Bairro', model: 'zone', width:150, widthColum:160},
+        {label: 'Bairro', model: 'zone', width:150, widthColum:200},
     ])
 
     return (

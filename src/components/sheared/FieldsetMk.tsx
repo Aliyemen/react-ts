@@ -54,8 +54,7 @@ const Fieldset = styled('fieldset', {
   });
 export function FieldsetMk(props: InputProps) {
     function getInput(props :InputProps){
-      if( props.model == 'mobile'){
-                
+      if( ['mobile','phone'].includes(props.model) ){
         return <InputMaskMk width={props.width} mask='(99) 99999-9999'  id={props.model} defaultValue="" />
       }
       return  <Input width={props.width} id={props.model} defaultValue="" />
